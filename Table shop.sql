@@ -1,3 +1,9 @@
+"""
+Exercise. Create DataBase 'mydatabase'. Create table 'shop'
+"""
+
+CREATE DataBase mydatabase
+
 CREATE TABLE shop (id INTEGER PRIMARY KEY, name TEXT, quantaty INT);
 
 INSERT INTO shop (id, name, quantaty) VALUES
@@ -8,6 +14,7 @@ INSERT INTO shop (id, name, quantaty) VALUES
 ('5', 'Cherries', '50');
 
 SELECT * FROM shop ORDER BY name;
+
 
 
 
