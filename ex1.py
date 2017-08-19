@@ -1,5 +1,5 @@
 """
-Some graphics
+Exercise 1. Some graphic
 """
 
 import matplotlib.pyplot as plt

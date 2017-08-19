@@ -1,3 +1,8 @@
+"""
+Exercise 3. Graph (discrete mathematics)
+"""
+
+
 import networkx as nx
 import numpy as np
 import matplotlib.pyplot as plt

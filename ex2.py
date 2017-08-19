@@ -1,5 +1,5 @@
 """
-ex2
+Exercise 2. Graph (discrete mathematics)
 """
 
 import networkx as nx
